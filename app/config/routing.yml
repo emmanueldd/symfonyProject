@@ -1,0 +1,5 @@
+joli_blog:
+    resource: "@JoliBlogBundle/Controller/"
+    type:     annotation
+    prefix:   /
+
